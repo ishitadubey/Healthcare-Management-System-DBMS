@@ -1,1 +1,5 @@
 # Healthcare-Management-System-DBMS
+The primary goal of implementing this system is to reduce manual labor at health center. The system can handle various tasks, such as registering variouskinds of
+people (e.g., employees, doctors, and others), making inquiries, and among other things, thereby reducing paper work and file storage. Furthermore, officials and executives have immediate access to information. The system also allows the pharmacist to enquire about the drugs, as well as thestock that needs to be ordered and the expiration date. 
+The goal of the Healthcare Management System project is to computerize the hospital's front office management in order to make user-friendly, quick, and cost-effective
+software. It is concerned with the gathering of patient information,diagnosis details, and so on. The system's main function is to register and store patient and doctor information, as well as to retrieve and manipulate this information as needed. An administrator, a doctor, and a receptionist have accessto it.
